@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
+
 # ChatGPT for Cybersecurity Cookbook
 
 <a href="https://www.packtpub.com/product/chatgpt-for-cybersecurity-cookbook/9781805124047"><img src="https://content.packt.com/B21091/cover_image_small.jpg" alt="" height="256px" align="right"></a>
